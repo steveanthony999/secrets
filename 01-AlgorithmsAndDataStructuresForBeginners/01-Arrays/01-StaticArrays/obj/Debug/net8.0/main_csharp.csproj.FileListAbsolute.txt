@@ -1,0 +1,15 @@
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/main_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/main_csharp.AssemblyInfoInputs.cache
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/main_csharp.AssemblyInfo.cs
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/main_csharp.csproj.CoreCompileInputs.cache
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/main_csharp.sourcelink.json
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/bin/Debug/net8.0/main_csharp
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/bin/Debug/net8.0/main_csharp.deps.json
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/bin/Debug/net8.0/main_csharp.runtimeconfig.json
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/bin/Debug/net8.0/main_csharp.dll
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/bin/Debug/net8.0/main_csharp.pdb
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/main_csharp.dll
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/refint/main_csharp.dll
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/main_csharp.pdb
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/main_csharp.genruntimeconfig.cache
+/Users/stevesairm2/Dev/tutorials/NeetCode/01-AlgorithmsAndDataStructuresForBeginners/01-Arrays/01-StaticArrays/obj/Debug/net8.0/ref/main_csharp.dll
